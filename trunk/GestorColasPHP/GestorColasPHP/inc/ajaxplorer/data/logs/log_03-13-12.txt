@@ -1,0 +1,9 @@
+03-13-12 13:28:01	127.0.0.1	INFO	shared	Create User	user_id=admin
+03-13-12 13:28:18	127.0.0.1	INFO	admin	Log In	
+03-13-12 13:28:58	127.0.0.1	INFO	admin	Switch Repository	rep. id=ajxp_conf
+03-13-12 13:32:11	127.0.0.1	INFO	admin	Listing plugins	
+03-13-12 13:32:20	127.0.0.1	INFO	admin	Listing plugins	
+03-13-12 13:32:23	127.0.0.1	INFO	admin	Listing plugins	
+03-13-12 13:36:46	127.0.0.1	INFO	admin	Listing plugins	
+03-13-12 13:38:53	127.0.0.1	INFO	admin	Listing plugins	
+03-13-12 13:39:04	127.0.0.1	INFO	admin	error	message=file_get_contents(http://www.ajaxplorer.info/update/?version=4.0.4&channel=stable): failed to open stream: HTTP request failed! 

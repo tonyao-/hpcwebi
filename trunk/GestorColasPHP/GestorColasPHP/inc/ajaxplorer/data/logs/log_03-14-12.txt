@@ -1,0 +1,20 @@
+03-14-12 10:19:23	127.0.0.1	INFO	admin	Listing plugins	
+03-14-12 10:43:38	127.0.0.1	INFO	admin	Log Out	
+03-14-12 11:43:16	127.0.0.1	INFO	admin	Log In	
+03-14-12 11:43:18	127.0.0.1	INFO	admin	Listing plugins	
+03-14-12 11:43:23	127.0.0.1	INFO	admin	Listing plugins	
+03-14-12 11:43:54	127.0.0.1	INFO	admin	Listing plugins	
+03-14-12 11:43:56	127.0.0.1	INFO	admin	Listing plugins	
+03-14-12 11:44:11	127.0.0.1	INFO	admin	Listing plugins	
+03-14-12 11:44:24	127.0.0.1	INFO	admin	Listing plugins	
+03-14-12 11:45:20	127.0.0.1	INFO	admin	Listing plugins	
+03-14-12 11:46:33	127.0.0.1	INFO	admin	Switch Repository	rep. id=0
+03-14-12 11:46:38	127.0.0.1	INFO	admin	Switch Repository	rep. id=1
+03-14-12 11:46:44	127.0.0.1	INFO	admin	Switch Repository	rep. id=0
+03-14-12 11:47:05	127.0.0.1	INFO	admin	Switch Repository	rep. id=ajxp_conf
+03-14-12 12:14:25	127.0.0.1	INFO	admin	Log Out	
+03-14-12 13:30:42	127.0.0.1	INFO	admin	Log In	
+03-14-12 13:33:57	127.0.0.1	INFO	admin	Create Repository	repo_name=PruebaLadon
+03-14-12 13:34:05	127.0.0.1	INFO	admin	Edit Repository	repo_name=PruebaLadon
+03-14-12 13:34:13	127.0.0.1	INFO	admin	error	message=You must have the php ssh2 extension active!
+03-14-12 13:34:56	127.0.0.1	INFO	admin	error	message=You must have the php ssh2 extension active!

@@ -1,0 +1,1 @@
+05-29-12 16:17:13	127.0.0.1	INFO	shared	error	message=Static function AbstractAjxpUser::deleteUser() should not be abstract

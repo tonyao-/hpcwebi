@@ -1,2 +1,0 @@
-03-18-12 18:38:50	127.0.0.1	INFO	admin	Log In	
-03-18-12 18:38:51	127.0.0.1	INFO	admin	error	message=ssh2_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known

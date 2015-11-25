@@ -1,0 +1,1 @@
+Web application based in PHP which allows to launch and manage processes on a remote HPC. It uses AJAX tecnology for web interface and SSH,SFTP for remote connection between web server and HPC.
